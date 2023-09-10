@@ -58,7 +58,9 @@ video {
 	width: 100%;
 	margin-bottom: 3rem;
 }
-
+.description-container {
+    padding: 45px 44px 100px;
+}
 /* Set margin top for main section */
 main {
 	margin-top: -2%;
@@ -94,9 +96,9 @@ h1 {
 }
 
 /* Set flex display for products container */
-.products-container {
+/* .products-container {
 	display: flex;
-}
+} */
 
 /* Set width to 50% for product-1 and product-2 */
 .product-1,
@@ -270,7 +272,7 @@ button:hover {
 
 /* Introduction text */
 .container:after {
-	content: 'Every drop ... is a  Waterfall of flavour!';
+	content: 'A good friend reminds you of your brilliance.!';
 	position: absolute;
 	top: 0;
 	left: 0;
